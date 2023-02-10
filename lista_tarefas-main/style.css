@@ -1,0 +1,27 @@
+@import url('https://www.dafont.com/pt/cursive-2.font');
+
+
+body {
+    font-family: 'cursive-2', cursive;
+    background:no-repeat image-set("Quadro negro.webp");
+    background-size: 100%;
+    background-position: 100%;
+    background-color: black;
+}
+
+h1 { 
+    border-bottom-style: inset;
+ }
+.tarefa-selecionada { 
+    color: blue; 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: white; 
+}
+
+.container-fluid {
+    color: white;
+    font-size: 5%;
+    padding: 15%;
+}
